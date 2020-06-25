@@ -1,0 +1,396 @@
+
+/*Adicionado mais tamanhos ao css bootstrap Padding*/
+.p-6 {
+  padding: 4rem !important;
+}
+
+.pt-6,
+.py-6 {
+  padding-top: 4rem !important;
+}
+
+.pr-6,
+.px-6 {
+  padding-right: 4rem !important;
+}
+
+.pb-6,
+.py-6 {
+  padding-bottom: 4rem !important;
+}
+
+.pl-6,
+.px-6 {
+  padding-left: 4rem !important;
+}
+
+.p-7 {
+  padding: 5rem !important;
+}
+
+.pt-7,
+.py-7 {
+  padding-top: 5rem !important;
+}
+
+.pr-7,
+.px-7 {
+  padding-right: 5rem !important;
+}
+
+.pb-7,
+.py-7 {
+  padding-bottom: 5rem !important;
+}
+
+.pl-7,
+.px-7 {
+  padding-left: 5rem !important;
+}
+
+.p-8 {
+  padding: 6rem !important;
+}
+
+.pt-8,
+.py-8 {
+  padding-top: 6rem !important;
+}
+
+.pr-8,
+.px-8 {
+  padding-right: 6rem !important;
+}
+
+.pb-8,
+.py-8 {
+  padding-bottom: 6rem !important;
+}
+
+.pl-8,
+.px-8 {
+  padding-left: 6rem !important;
+}
+
+
+.p-9 {
+  padding: 7rem !important;
+}
+
+.pt-9,
+.py-9 {
+  padding-top: 7rem !important;
+}
+
+.pr-9,
+.px-9 {
+  padding-right: 7rem !important;
+}
+
+.pb-9,
+.py-9 {
+  padding-bottom: 7rem !important;
+}
+
+.pl-9,
+.px-9 {
+  padding-left: 7rem !important;
+}
+
+
+.p-10 {
+  padding: 8rem !important;
+}
+
+.pt-10,
+.py-10 {
+  padding-top: 8rem !important;
+}
+
+.pr-10,
+.px-10 {
+  padding-right: 8rem !important;
+}
+
+.pb-10,
+.py-10 {
+  padding-bottom: 8rem !important;
+}
+
+.pl-10,
+.px-10 {
+  padding-left: 8rem !important;
+}
+
+.p-11 {
+  padding: 9rem !important;
+}
+
+.pt-11,
+.py-11 {
+  padding-top: 9rem !important;
+}
+
+.pr-11,
+.px-11 {
+  padding-right: 9rem !important;
+}
+
+.pb-11,
+.py-11 {
+  padding-bottom: 9rem !important;
+}
+
+.pl-11,
+.px-11 {
+  padding-left: 9rem !important;
+}
+
+.p-12 {
+  padding: 10rem !important;
+}
+
+.pt-12,
+.py-12 {
+  padding-top: 10rem !important;
+}
+
+.pr-12,
+.px-12 {
+  padding-right: 10rem !important;
+}
+
+.pb-12,
+.py-12 {
+  padding-bottom: 10rem !important;
+}
+
+.pl-12,
+.px-12 {
+  padding-left: 10rem !important;
+}
+
+.p-13 {
+  padding: 11rem !important;
+}
+
+.pt-13,
+.py-13 {
+  padding-top: 11rem !important;
+}
+
+.pr-13,
+.px-13 {
+  padding-right: 11rem !important;
+}
+
+.pb-13,
+.py-13 {
+  padding-bottom: 11rem !important;
+}
+
+.pl-13,
+.px-13 {
+  padding-left: 11rem !important;
+}
+
+
+
+
+
+/* Adições de tamanho ao css bootstrap Margin*/
+.m-6{
+  margin: 4rem !important;
+}
+
+.mt-6,
+.my-6{
+  margin-top: 4rem !important;
+} 
+
+.mr-6,
+.mx-6{
+  margin-right: 4rem !important;
+}
+
+.mb-6,
+.my-6 {
+  margin-bottom: 4rem !important;
+}
+
+.ml-6,
+.mx-6 {
+  margin-left: 4rem !important;
+}
+
+
+.m-7{
+  margin: 5rem !important;
+}
+
+.mt-7,
+.my-7{
+  margin-top: 5rem !important;
+} 
+
+.mr-7,
+.mx-7{
+  margin-right: 5rem !important;
+}
+
+.mb-7,
+.my-7 {
+  margin-bottom: 5rem !important;
+}
+
+.ml-7,
+.mx-7 {
+  margin-left: 5rem !important;
+}
+
+.m-8{
+  margin: 6rem !important;
+}
+
+.mt-8,
+.my-8{
+  margin-top: 6rem !important;
+} 
+
+.mr-8,
+.mx-8{
+  margin-right: 6rem !important;
+}
+
+.mb-8,
+.my-8 {
+  margin-bottom: 6rem !important;
+}
+
+.ml-8,
+.mx-8 {
+  margin-left: 6rem !important;
+}
+
+.m-9{
+  margin: 7rem !important;
+}
+
+.mt-9,
+.my-9{
+  margin-top: 7rem !important;
+} 
+
+.mr-9,
+.mx-9{
+  margin-right: 7rem !important;
+}
+
+.mb-9,
+.my-9 {
+  margin-bottom: 7rem !important;
+}
+
+.ml-9,
+.mx-9 {
+  margin-left: 7rem !important;
+}
+
+
+.m-10{
+  margin: 8rem !important;
+}
+
+.mt-10,
+.my-10{
+  margin-top: 8rem !important;
+} 
+
+.mr-10,
+.mx-10{
+  margin-right: 8rem !important;
+}
+
+.mb-10,
+.my-10 {
+  margin-bottom: 8rem !important;
+}
+
+.ml-10,
+.mx-10 {
+  margin-left: 8rem !important;
+}
+
+.m-11{
+  margin: 9rem !important;
+}
+
+.mt-11,
+.my-11{
+  margin-top: 9rem !important;
+} 
+
+.mr-11,
+.mx-11{
+  margin-right: 9rem !important;
+}
+
+.mb-11,
+.my-11 {
+  margin-bottom: 9rem !important;
+}
+
+.ml-11,
+.mx-11 {
+  margin-left: 9rem !important;
+}
+
+.m-12{
+  margin: 10rem !important;
+}
+
+.mt-12,
+.my-12{
+  margin-top: 10rem !important;
+} 
+
+.mr-12,
+.mx-12{
+  margin-right: 10rem !important;
+}
+
+.mb-12,
+.my-12 {
+  margin-bottom: 10rem !important;
+}
+
+.ml-12,
+.mx-12 {
+  margin-left: 10rem !important;
+}
+
+.m-13{
+  margin: 11rem !important;
+}
+
+.mt-13,
+.my-13{
+  margin-top: 11rem !important;
+} 
+
+.mr-13,
+.mx-13{
+  margin-right: 11rem !important;
+}
+
+.mb-13,
+.my-13 {
+  margin-bottom: 11rem !important;
+}
+
+.ml-13,
+.mx-13 {
+  margin-left: 11rem !important;
+}
+
+
